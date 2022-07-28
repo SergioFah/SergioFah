@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 📖 Currently studing React, UX Design and IoT/Microprocessors.
+- 📖 Currently studing C#, UX Design and IoT/Microprocessors.
 - 🎨 2D, 3D and music designer
 - 🤖 Unity Developer 
 - 🎮 Finished Game Projects: https://sergiofah.itch.io
