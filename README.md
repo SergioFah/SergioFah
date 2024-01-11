@@ -5,10 +5,9 @@
 
 ##### BIO
 
-- 📖 Currently studing Java & Spring
+- 📖 Currently studying Java & Spring
 - 🎨 2D, 3D and music designer
-- 🤖 Unity Developer 
-- 🎮 Finished Game Projects: https://sergiofah.itch.io
+- 🎮 Finished Game Dev Projects: https://sergiofah.itch.io
 -----------------------------------------------------------------
 <div>
   <a href="https://github.com/sergiofah">
