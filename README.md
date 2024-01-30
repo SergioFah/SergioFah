@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 📖 Currently studying Java & Spring
+- 📖 Java | Spring Boot | PostgreSQL
 - 🎨 2D, 3D and music designer
 - 🎮 Finished Game Dev Projects: https://sergiofah.itch.io
 -----------------------------------------------------------------
